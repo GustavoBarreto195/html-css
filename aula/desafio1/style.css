@@ -1,0 +1,51 @@
+body{
+    margin: 0;
+    padding: 0;
+    background-color: black;
+}
+
+h1{
+    color: white;
+    text-align: center;
+}
+
+img{
+    width: 400px;
+}
+
+.videos{
+    width: 805px;
+    margin: auto;
+}
+
+.avatar{
+    width: 75%;
+    /* background-color: red; */
+}
+
+iframe{
+    margin-top: 40px;
+    margin-left: 450px;
+}
+
+a{
+    text-decoration: none;
+    color: white;
+}
+
+.link{
+    font-size: 20px;
+    padding: 20px;
+    text-align: center;
+}
+
+.link-seta{
+    background-color: red;
+}
+
+.link-seta, .seta{
+    height: 50px;
+    width: 60px;
+    padding: 0px;
+    margin: auto;
+}
